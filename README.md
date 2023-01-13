@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @arianshi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-arianshi/arianshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m arianshi
+- 👀 I’m interested in front end
+- 🌱 I’m currently learning flutter and react native
+- 💞️ I’m looking to collaborate on every compney
+- 📫 arian.shi@outlook.com
